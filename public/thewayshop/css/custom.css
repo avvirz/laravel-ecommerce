@@ -1,0 +1,67 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+
+/* welcome page link */
+
+.centerBtn {
+    margin-left: 45%;
+}
+
+.btn-color {
+    color: white;
+}
+
+.user-color {
+    color: red;
+}
+
+.img-border {
+    border-radius: 50%;
+}
+
+
+/*stripe.blade.php  style */
+
+.panel-title {
+    display: inline;
+    font-weight: bold;
+}
+
+.display-table {
+    display: table;
+}
+
+.display-tr {
+    display: table-row;
+}
+
+.display-td {
+    display: table-cell;
+    vertical-align: middle;
+    width: 61%;
+}
+
+
+/*end*/
+
+.filter-input {
+    border: 0;
+    color: #fbb714;
+    font-weight: bold;
+}
+
+.carousel-height {
+    height: 600px;
+}
+
+.product-imgbox-height {
+    height: 400px;
+}
+
+.links {
+    margin-left: 45%;
+}
+
+.paybox {
+    color: red;
+}

@@ -1,0 +1,85 @@
+.errors {
+    color: red;
+}
+
+.colorBtnWhite {
+    color: white;
+}
+
+body {
+    background-color: white;
+}
+
+.padding {
+    padding: 2rem !important
+}
+
+.card {
+    margin-bottom: 30px;
+    border: none;
+    -webkit-box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    -moz-box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    box-shadow: 0px 1px 2px 1px rgba(154, 154, 204, 0.22)
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #e6e6f2
+}
+
+h3 {
+    font-size: 20px
+}
+
+h5 {
+    font-size: 15px;
+    line-height: 26px;
+    color: #3d405c;
+    margin: 0px 0px 15px 0px;
+    font-family: 'Circular Std Medium'
+}
+
+.text-dark {
+    color: #3d405c !important
+}
+
+.nav-img-border {
+    border-radius: 50%;
+}
+
+.logout-btn {
+    display: none;
+}
+.users-table {
+    border: 0;
+}
+.users-table tr td:first-child {
+    padding-left: 15px;
+}
+.users-table tr td:last-child {
+    padding-right: 15px;
+}
+.users-table.table-responsive,
+.users-table.table-responsive table {
+    margin-bottom: 0;
+}
+.displayUser{
+    display: flex; justify-content: space-between; align-items: center;
+}
+.btn-save,
+.pw-change-container {
+    display: none;
+}
+.themes-table {
+    border: 0;
+}
+.themes-table tr td:first-child {
+    padding-left: 15px;
+}
+.themes-table tr td:last-child {
+    padding-right: 15px;
+}
+.themes-table.table-responsive,
+.themes-table.table-responsive table {
+    margin-bottom: 0;
+}
